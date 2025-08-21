@@ -10,9 +10,9 @@ The algorithms covered are to be:
 4. Spider Monkey Optimisation*
 5. Artificial Bee Colony Algorithm*
 
-The repository also contains various sample problems and instructions on how to write your own problems.
+The repository also contains various sample problems and instructions on how to write your own problems.*
 
-> Algorithms with * have yet to be done
+> Additions with * have yet to be done
 
 ## Contributions
 
